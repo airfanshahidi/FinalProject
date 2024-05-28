@@ -1,5 +1,5 @@
 # Project Proposal: Python Game
 
 ## Project Overview
-This game aims to develop a python game to demonstrate the skills I have acquired taking this CS30 class. This game will be a 
+This game aims to develop a python game to demonstrate the skills I have acquired taking this CS30 class. This game will be a text based fighting game inspired by the famous game Pokémon 
 
