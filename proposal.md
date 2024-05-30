@@ -26,21 +26,44 @@ User documentation will explain how to use the program. Bug fixes and changes be
 
 ## Weekly Plan
 ### Week 1
-- Research and finalize game concept.
-- Set up project respitory on GitHub
-- Implement basic game mechanics and logic
-- Desing initial user interface
+- Research and finalize game concept. (Done)
+- Set up project respitory on GitHub (Done)
+- Implement basic game mechanics and logic (June 1st)
+- Desing initial user interface (June 3rd)
 
 ### Week 2
-- Refine game mechanics based on personal testing
-- Add additional gameplay features
-- Conduct testing and debugging
-- Finalize user interface design and documentation
+- Refine game mechanics based on personal testing (June 6th)
+- Add additional gameplay features (June 7th)
+- Conduct testing and debugging (June 8th)
+- Finalize user interface design and documentation (June 10th)
 
 ## Risks and Challenges
 Potentual risks and challenges include:
 - Time for implementing my desired features
 - Debugging complex code
+
+## Target User
+The games target user is someone who has played Pokémon or somebody who enjoys action RPG games.
+
+## Must Haves
+Some must haves my game needs to include are:
+- A functioning menu
+- Game Looping
+- Functioning player and opponents
+- Functioning battle system
+- A friendly text based UI to help the player
+- Good input handling
+- HP Tracker
+- A map
+
+## Wish List
+Some features my game could have if I had a longer timespan 
+- More than 3 opponents
+- Healing function
+- Character Design??
+- More power ups
+- More maps
+
 
 ## Conclusion
 The project proposal outlines the development of my game for the final project in CS30 within a 2 week timeframe. 
