@@ -64,6 +64,5 @@ Some features my game could have if I had a longer timespan
 - More power ups
 - More maps
 
-
 ## Conclusion
 The project proposal outlines the development of my game for the final project in CS30 within a 2 week timeframe. 
