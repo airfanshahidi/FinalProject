@@ -2,7 +2,7 @@
 
 Below is the flowchart representing the main components and flow of the game:
 
-```mermaid
+```flow
 graph TD;
     A[Start] --> B[Main Menu]
     B -->|Start Game| C[Initialize Player]
