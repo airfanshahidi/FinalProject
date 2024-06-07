@@ -13,16 +13,16 @@ def get_user_choice():
   return choice
 
 def main():
+  game = Game()
   while True:
     display_main_menu()
     choice = get_user_choice()
     if choice == '1':
-      game = Game()
       game.start()
     elif choice == '2':
       show_intructions()
     elif choice == '3':
-      show_elemental_dex()
+      show_elemental_dex(game)
     elif choice == '4':
       print("Thank you for playing Elemental Saga!")
       sys.exit()
@@ -41,4 +41,6 @@ def show_elemental_dex(): #Placeholder function to show captured creatures
   print("\nElemental Dex:")
   print("A record of all captured elemental creatures.")
   input("Press Enter to Return to the Main Menu...")
-  
+
+if __name__ == "__main__":
+  main()
